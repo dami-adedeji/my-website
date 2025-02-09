@@ -1,0 +1,7 @@
+- website will have a nice photo of me and a 
+    little paragraph about what i do and care about
+- skills section:
+- programming languages section (java, c++, python, html, css)
+- coding projects (external links to github?)
+- writing projects (new pages in website or..?)
+also links to my linkedin and github
